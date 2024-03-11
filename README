@@ -1,2 +1,2 @@
 This webapp uses Flask for web framework and CoolProp for gathering psychrometric properties of air.
-Python 3.12.2 has been used for development. The name of the environment is psyCalApp and should be activated.
+Python 3.12.2 has been used for development. A virtual environment should be created with the packages defined in requirements.txt file.
